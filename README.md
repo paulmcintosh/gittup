@@ -1,0 +1,2 @@
+# gittup
+install tup
